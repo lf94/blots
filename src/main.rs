@@ -17,7 +17,7 @@ use image::{
   Rgb
 };
 
-const A4_WIDTH_INCHES:f32 = 8.5;
+const A4_WIDTH_INCHES:f32 = 8.3;
 const A4_RATIO:f32 = 1.4142;
 const DPI:u32 = 300;
 const A4_PIXEL_WIDTH:usize = (A4_WIDTH_INCHES * DPI as f32) as usize;
