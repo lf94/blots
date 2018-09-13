@@ -41,3 +41,12 @@ I will pull your decoder if it is simple and a clean implementation!
 
 It will output a new file, `filename.blots.png`.
 
+# Status (failure)
+
+This version of blots, turns out to not work well at all! Resolution and lack of precision cause colors to grossly blend together.
+
+## Original:
+![Original image](./IMG_20161005_16211250.jpg.blots.png)
+
+## Scanned result:
+![Blots failure](./IMG_20161005_16211250.jpg.blots.png_RESCANNED.png)
